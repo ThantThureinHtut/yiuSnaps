@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "Hsu Lab Naing",
+    "img": ["/img/IMG_1166.png", "/img/IMG_0379.jpg", "/img/IMG_9822.jpg"],
+    "about": "r-11 hyper စိတ်မနှံ လိင်တူချစ်သူ ",
+    "error": ""
+  },
+  {
+    "id": 2,
+    "name": "Yati Lin Lae",
+    "img": ["/img/IMG_1339.jpg"],
+    "about": "ဆုရလို့ပျော်နေသူကြီး",
+    "error": ""
+  },
+
+  {
+    "id": 3,
+    "name": "Nyan Lin Htet",
+    "img": [],
+    "about": "အာခြောင် , စောက်ကြပ်မပြည့် , စောက်သုံးမကျ(ဘဘသားရောင်ဆောင်ထားတဲ့ ခွေးတစ်တောင်းစား) [အသံကြာဆဲချင် မျက်နာမြင်ထိုးချင်]",
+    "error": "[စောက်ဘောင်မဝင်လို့ ပုံတောင်စောက်ဖက်လုပ်ပြီ save မထားဘူး (NO SNAP ERROR)]"
+  },
+
+  {
+    "id": 4,
+    "name": "Hein Htet Aung (YIU V lay)",
+    "img": [
+      "/img/793FF9EC-F886-443D-B7DF-4D98839980AF.jpg",
+      "/img/4D5FFF2C-6E2E-4EBE-9BF8-5F8ED6DC89FB.jpg",
+      "/img/IMG_1355.jpg"
+    ],
+    "about": "စောက်ရမ်းချော အသေချော",
+    "error": ""
+  },
+  {
+    "id": 5,
+    "name": "Kyaw Wai Yan Phyo",
+    "img": ["/img/index.jpg"],
+    "about": "စောက်ရမ်းတော် ရှယ်တော် , ပညာတတ်(ဖင်ကိတ်)",
+    "error": ""
+  },
+  {
+    "id": 6,
+    "name": "Thant Thurein Htut",
+    "img": ["/img/IMG_0674.jpg"],
+    "about": "ကြေကွဲလူငယ်",
+    "error": ""
+  }
+]
