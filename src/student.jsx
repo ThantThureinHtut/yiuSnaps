@@ -4,7 +4,7 @@ function student(props) {
   return (
     <>
       <div className="   flex justify-center">
-        <div className="p-4 shadow-md m-4  flex justify-center text-center items-center w-1/2">
+        <div className="p-4 shadow-md m-4  flex justify-center text-center items-center w-full md:w-1/2">
           <div className="text-center flex flex-col justify-center  items-center">
             <h1 className="text-3xl font-semibold text-yiumaincolor ">
               {name}
